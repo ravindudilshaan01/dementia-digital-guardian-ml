@@ -1,0 +1,19 @@
+# Environment variables - never push API keys to GitHub
+.env
+
+# Pickle files
+*.pkl
+
+# Data directory
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
